@@ -35,9 +35,6 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
-    "generate-random-color": "^1.0.6",
-    "random-hex-code-gen": "^0.0.1",
-    "randomcolor": "^0.6.2",
-    "randomize-hex": "^1.0.7"
+    "randomcolor": "^0.6.2"
   }
 }
